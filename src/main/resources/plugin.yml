@@ -1,0 +1,9 @@
+name: SandBots
+version: '${project.version}'
+main: me.logan.sandbot.SandBot
+api-version: '1.18'
+
+commands:
+  sandrefill:
+    description: YES
+    usage: /sandrefill

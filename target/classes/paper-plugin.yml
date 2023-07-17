@@ -1,0 +1,4 @@
+name: SandBots
+version: '1.0-SNAPSHOT'
+main: me.logan.sandbot.SandBot
+api-version: '1.18'
